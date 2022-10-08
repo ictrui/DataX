@@ -109,6 +109,7 @@
         <module>streamwriter</module>
 
         <module>elasticsearchwriter</module>
+        <module>elasticsearchwriter8</module>
         <module>mongodbwriter</module>
         <module>tdenginewriter</module>
         <module>ocswriter</module>
